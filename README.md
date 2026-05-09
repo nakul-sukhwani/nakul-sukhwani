@@ -51,9 +51,9 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakul-sukhwani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakul-sukhwani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul-sukhwani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul-sukhwani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -114,5 +114,3 @@ class Developer {
 <div align="center">
 
 ### 🚀 Thanks for visiting my profile!
-
-</div>
