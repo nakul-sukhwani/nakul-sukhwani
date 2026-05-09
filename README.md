@@ -1,38 +1,118 @@
-<h1 align="left">Hi 👋! My name is Nakul Sukhwani</h1>
+# 🚀 Nakul Sukhwani
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white&style=for-the-badge" height="30" alt="clion logo"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Learner;Full+Stack+Explorer;Building+Projects+with+Next.js;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="nakulsukhwani.in@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nakul-sukhwani-6265143a4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 👨‍💻 About Me
+
+```cpp
+class Developer {
+    public:
+        string name = "Nakul Sukhwani";
+        string role = "C++ Developer & Full Stack Learner";
+        string currentlyLearning = "DSA + Full Stack Development";
+        string techStack = "C++, Next.js, JavaScript";
+        string projects = "Built projects using Antigravity";
+        string goal = "Build scalable and impactful applications";
+};
+```
+
+* 🔥 Solving problems using **C++ & DSA**
+* 🌐 Exploring **Full Stack Development**
+* ⚡ Worked on **Next.js projects with Antigravity**
+* 📚 Currently improving problem-solving & development skills
+* 🚀 Passionate about building clean and scalable applications
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakul-sukhwani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul-sukhwani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nakul-sukhwani&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![snake gif](https://github.com/nakul-sukhwani/nakul-sukhwani/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/nakul.sukhwani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nakul-sukhwani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nakulsukhwani28@gmail.com)
+
+</div>
+
+---
+
+## 💡 Developer Quote
+
+<div align="center">
+
+> *"Consistency beats motivation. One commit at a time."* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Profile Views
+
+![](https://komarev.com/ghpvc/?username=nakul-sukhwani\&color=blueviolet\&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
