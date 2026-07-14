@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm Currently working on DSA;<br>👀Looking forward for collaborative project building;<br>🍀Created a small project for Campus Scope 2 emission tracking;<br>🧑‍💻Full Stack Learner;<br>
+💻I'm Currently working on DSA;<br>👀Looking forward for collaborative project building;<br>🍀Created a small project for Campus Scope 2 emission tracking;<br>🧑‍💻Full Stack Learner;<br> Still working <br>
 
 
 ## 🌐 Socials:
